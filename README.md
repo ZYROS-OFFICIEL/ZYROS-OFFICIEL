@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZYROS-OFFICIEL
-- I’m 1️⃣4️⃣ years old
+- I’m 1️⃣7 years old
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning C++
 - 📫 How to reach me : rondomiez@gmail.com
