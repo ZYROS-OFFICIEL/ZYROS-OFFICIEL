@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZYROS-OFFICIEL
+- 👋 Hi, I’m @ZYROS
 - I’m 1️⃣7 years old
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning C++
